@@ -15,4 +15,6 @@ class Edades:
 			return 'Eres Mumm-Ra'
 		if edad > 1000 and edad < 1200:
 			return 'Eres una momia'
+
+			#
 		
